@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Unemployed 🌚
+![Unemployed](/static/play.jpeg)
